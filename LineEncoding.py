@@ -1,3 +1,6 @@
+"""
+author : Mayank Kumar Jha
+"""
 import matplotlib.pyplot as plt
 
 def unipolar(inp):
